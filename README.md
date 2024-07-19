@@ -66,4 +66,4 @@ This project is licensed under the MIT License.
 <img src='./public/imgs/sporty.png' />
 
 ## Deployed Application
-You can access the deployed version of Sporty at [https://sporty-app.herokuapp.com](https://sporty-blog-2877962c9924.herokuapp.com/).
+You can access the deployed version of Sporty at https://sport-blog-48839df84095.herokuapp.com/.
